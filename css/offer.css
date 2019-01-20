@@ -1,0 +1,28 @@
+.offer {
+  background: linear-gradient(80deg, rgba(26, 125, 187, 0.8), rgba(120, 74, 203, 0.8)), url(../img/offer/offer-bg-img.png) center no-repeat;
+  background-size: cover; }
+  .offer-block {
+    height: 215px;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+    -webkit-box-pack: center;
+    -ms-flex-pack: center;
+    justify-content: center;
+    z-index: 1; }
+  .offer-text {
+    color: #ffffff;
+    margin-right: 52px; }
+  .offer-title {
+    font-family: 'Proxima Nova Semibold';
+    font-size: 26px;
+    font-weight: 400;
+    text-transform: uppercase; }
+  .offer-descr {
+    font-family: 'Proxima Nova Regular';
+    padding-right: 35px;
+    font-size: 18px;
+    font-weight: 300; }

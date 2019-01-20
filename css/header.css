@@ -1,0 +1,48 @@
+.header {
+  background: linear-gradient(80deg, rgba(26, 125, 187, 0.8), rgba(120, 74, 203, 0.8)), url(../img/main_bg.jpg) center no-repeat;
+  background-size: cover; }
+  .header-blocks {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-pack: justify;
+    -ms-flex-pack: justify;
+    justify-content: space-between; }
+  .header-info {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+    padding-top: 60px;
+    color: #ffffff;
+    margin-right: 30px; }
+    .header-info__img {
+      margin-right: 60px; }
+    .header-info__text {
+      -ms-flex-item-align: start;
+      align-self: flex-start;
+      font-family: 'Proxima Nova Regular';
+      font-size: 16px;
+      font-weight: 400;
+      line-height: 22px; }
+  .header-act {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+    padding-top: 60px;
+    color: #ffffff; }
+    .header-act__tel {
+      margin-right: 30px;
+      text-align: right; }
+      .header-act__tel_number {
+        font-size: 19px;
+        font-family: 'Roboto'; }
+      .header-act__tel_name {
+        font-size: 14px;
+        paddding-bottom: 6px;
+        font-family: 'Proxima Nova Regular'; }

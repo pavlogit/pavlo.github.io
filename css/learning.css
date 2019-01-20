@@ -1,0 +1,25 @@
+.learning {
+  background-color: #f4f9fb;
+  padding-top: 75px;
+  padding-bottom: 60px; }
+  .learning-text {
+    padding-top: 12px;
+    text-align: center;
+    font-family: 'Proxima Nova Regular';
+    padding-bottom: 26px;
+    font-size: 18px;
+    font-weight: 300;
+    line-height: 28px; }
+    .learning-text p {
+      margin-top: 10px; }
+  .learning-block {
+    text-align: center;
+    padding-bottom: 39px;
+    color: #5b5b5b;
+    font-family: 'Proxima Nova Regular'; }
+    .learning-block__img {
+      margin: 0 auto;
+      max-width: 350px;
+      min-height: 70px; }
+  .learning-act {
+    text-align: center; }
